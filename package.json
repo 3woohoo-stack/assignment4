@@ -1,0 +1,27 @@
+{
+  "name": "assignment4",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/3woohoo-stack/assignment4#readme",
+  "bugs": {
+    "url": "https://github.com/3woohoo-stack/assignment4/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3woohoo-stack/assignment4.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0",
+    "supertest": "^7.2.2"
+  }
+}
